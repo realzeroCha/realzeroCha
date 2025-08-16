@@ -14,6 +14,13 @@ TypeScript 기반의 React, NextJS 웹을 개발하는 프론트엔드 개발자
 
 ## **⚙️**  Tech Stack
 
+### Language
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
+</p>
+
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
