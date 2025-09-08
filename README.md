@@ -45,4 +45,6 @@ TypeScript 기반의 React, NextJS 웹을 개발하는 프론트엔드 개발자
 ### DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
 </p>
